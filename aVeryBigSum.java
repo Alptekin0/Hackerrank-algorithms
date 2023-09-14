@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class aVeryBigSum {
 
 	public static void main(String[] args) {
-		System.out.println();
-		
 		/*
 		 
 		 HACKKERRANK ALGORİTMA SORULARI : 
