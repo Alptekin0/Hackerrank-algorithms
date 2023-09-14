@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class theBirthdayBar {
 
 	public static void main(String[] args) {
-		System.out.println();
-		
 		/*
 		 
 		 ACIKLAMASI UZUN 
