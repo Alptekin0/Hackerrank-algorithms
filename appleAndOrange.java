@@ -4,9 +4,7 @@ import java.util.Scanner;
 
 public class appleAndOrange {
 
-	public static void main(String[] args) {
-		System.out.println();
-		
+	public static void main(String[] args) {	
 		/*
 		 HACKERRANK ALGORİTMA : 
 		 
