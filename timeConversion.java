@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class timeConversion {
 
 	public static void main(String[] args) {
-		System.out.println();
-		
 		/*
 		 
 		 HACKERRANK ALGORİTMA : 
