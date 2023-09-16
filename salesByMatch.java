@@ -7,8 +7,6 @@ import java.util.Scanner;
 public class salesByMatch {
 
 	public static void main(String[] args) {
-		System.out.println();
-		
 		/*
 		 
 		 HACKERRANK ALGORİTMA : 
